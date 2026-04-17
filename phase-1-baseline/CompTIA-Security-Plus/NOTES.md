@@ -27,6 +27,30 @@ The exam is divided in **Domains** that and each domains represents a certain % 
 | <mark style="background-color:$primary;">**Total**</mark> | <mark style="background-color:$primary;">**100%**</mark> |
 
 ***
+## Index
+
+### [Domain 1 — General Security Concepts](#domain-1--general-security-concepts) `12%`
+- [Chapter 1 — Mastering Security Basics](#chapter-1--mastering-security-basics)
+
+### [Domain 2 — Threats, Vulnerabilities & Mitigations](#domain-2--threats-vulnerabilities--mitigations) `22%`
+- [Chapter 6 — Comparing Threats, Vulnerabilities, and Common Attacks](#chapter-6--comparing-threats-vulnerabilities-and-common-attacks)
+- [Chapter 7 — Protecting Against Advanced Attacks](#chapter-7--protecting-against-advanced-attacks)
+
+### [Domain 3 — Security Architecture](#domain-3--security-architecture) `18%`
+- [Chapter 3 — Exploring Network Technologies and Tools](#chapter-3--exploring-network-technologies-and-tools)
+- [Chapter 4 — Securing Your Network](#chapter-4--securing-your-network)
+- [Chapter 5 — Securing Hosts and Data](#chapter-5--securing-hosts-and-data)
+- [Chapter 9 — Implementing Controls to Protect Assets](#chapter-9--implementing-controls-to-protect-assets)
+
+### [Domain 4 — Security Operations](#domain-4--security-operations) `28%`
+- [Chapter 2 — Understanding Identity and Access Management](#chapter-2--understanding-identity-and-access-management)
+- [Chapter 8 — Using Risk Management Tools](#chapter-8--using-risk-management-tools)
+- [Chapter 11 — Implementing Policies to Mitigate Risks](#chapter-11--implementing-policies-to-mitigate-risks)
+
+### [Domain 5 — Security Program Management & Oversight](#domain-5--security-program-management--oversight) `20%`
+- [Chapter 10 — Understanding Cryptography and PKI](#chapter-10--understanding-cryptography-and-pki)
+
+***
 
 ## Domain 1 — General Security Concepts
 
