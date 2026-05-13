@@ -1,9 +1,9 @@
-# GIAC GPEN
+# AWS Solutions Architect Associate
 
 | Field | Detail |
 | --- | --- |
-| Exam Code | GPEN |
-| DoD 8140 Role | CSSP / Pen Tester |
+| Exam Code | SAA-C03 |
+| DoD 8140 Role | Cloud / SecOps |
 | Status | Planned |
 
 ## Study Notes

@@ -1,9 +1,9 @@
-# GIAC GPEN
+# AWS Security Specialty
 
 | Field | Detail |
 | --- | --- |
-| Exam Code | GPEN |
-| DoD 8140 Role | CSSP / Pen Tester |
+| Exam Code | SCS-C02 |
+| DoD 8140 Role | Cloud Security |
 | Status | Planned |
 
 ## Study Notes

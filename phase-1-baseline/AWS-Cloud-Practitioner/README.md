@@ -1,9 +1,9 @@
-# GIAC GPEN
+# AWS Cloud Practitioner
 
 | Field | Detail |
 | --- | --- |
-| Exam Code | GPEN |
-| DoD 8140 Role | CSSP / Pen Tester |
+| Exam Code | CLF-C02 |
+| DoD 8140 Role | Cloud Baseline |
 | Status | Planned |
 
 ## Study Notes
