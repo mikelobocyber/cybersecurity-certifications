@@ -1,109 +1,58 @@
-# Cybersecurity Certifications & Education
+# certifications
 
-Documenting my certification and education progress toward DoD cybersecurity roles — cleared contractor and government cyber operations.
-
-Reference one-sheet: [`_roadmap/DoD_8140_Roadmap.pdf`](./_roadmap/DoD_8140_Roadmap.pdf)
+Documenting my certification progress toward DoD cybersecurity roles — cleared contractor and government cyber operations. Roadmap aligned to DoD 8140.
 
 ---
 
 ## Education
 
-### B.S. Computer Science — Western Governors University
-
-**Status:** In Progress | **Graduation Goal:** October 2027
-
-See full course breakdown: [`education/WGU-BS-Computer-Science/`](./education/WGU-BS-Computer-Science/)
-
-> Next: M.S. in Artificial Intelligence and Machine Learning (WGU)
+| Degree | Institution | Status |
+| --- | --- | --- |
+| [B.S. Computer Science](./education/wgu-bs-computer-science) | Western Governors University | In Progress — Aug 2026 |
+| M.S. Artificial Intelligence and Machine Learning | Western Governors University | Planned |
 
 ---
 
-## Certifications
+## Earned
 
-### Phase 1 — Baseline Compliance
+| Certification | Issuer | Date | Cert Number | Expires |
+| --- | --- | --- | --- | --- |
+| [LPI Linux Essentials](./linux-essentials) | Linux Professional Institute | May 25, 2026 | LPI000692291 | Does not expire |
+| [ITIL 4 Foundation in IT Service Management](./itil-4-foundation) | PeopleCert | June 3, 2026 | GR671889308MS | June 4, 2029 |
 
-| Certification | Exam | DoD 8140 Role | Status |
+---
+
+## In Progress
+
+| Certification | Issuer | Exam | DoD 8140 Role |
 | --- | --- | --- | --- |
-| [ISC2 Certified in Cybersecurity (CC)](./phase-1-baseline/ISC2-CC) | CC | Entry Baseline | In Progress |
-| [Linux Foundations](./phase-1-baseline/Linux-Foundations) | D281 / LFS | Systems Baseline | In Progress |
-| [ITIL 4 Foundation](./phase-1-baseline/ITIL4-Foundation) | ITIL 4 | IT Service Management | Planned |
-| [CompTIA Security+](./phase-1-baseline/CompTIA-Security-Plus) | SY0-701 | IAT/IAM Level II | Planned |
-| [AWS Cloud Practitioner](./phase-1-baseline/AWS-Cloud-Practitioner) | CLF-C02 | Cloud Baseline | Planned |
-| [CompTIA CySA+](./phase-1-baseline/CompTIA-CySA-Plus) | CS0-003 | IAT II / CSSP Analyst | Planned |
+| [CompTIA Security+](./security-plus) | CompTIA | SY0-701 | IAT Level II / IAM Level I |
 
-### Phase 2 — Intermediate (12–18 mo post-Security+)
+---
 
-| Certification | Exam | DoD 8140 Role | Status |
+## Roadmap
+
+| Certification | Issuer | DoD 8140 Role | Status |
 | --- | --- | --- | --- |
-| [AWS Solutions Architect Associate](./phase-2-intermediate/AWS-SAA) | SAA-C03 | Cloud / SecOps | Planned |
-| [AWS Security Specialty](./phase-2-intermediate/AWS-Security-Specialty) | SCS-C02 | Cloud Security | Planned |
-| [CEH](./phase-2-intermediate/CEH) | 312-50 | CSSP Analyst / IR | Planned |
-| [PNPT](./phase-2-intermediate/PNPT) | Practical | Pen Tester / Red Team | Planned |
-| [CompTIA PenTest+](./phase-2-intermediate/CompTIA-PenTest-Plus) | PT0-002 | CSSP / Pen Tester | Planned |
-| [GIAC GPEN](./phase-2-intermediate/GIAC-GPEN) | GPEN | CSSP / Pen Tester | Planned |
+| AWS Cloud Practitioner | Amazon Web Services | Cloud Baseline | Planned |
+| CompTIA CySA+ | CompTIA | CSSP Analyst | Planned |
+| AWS Solutions Architect Associate | Amazon Web Services | Cloud / SecOps | Planned |
+| PNPT | TCM Security | Red Team / Pen Tester | Planned |
+| OSCP | Offensive Security | CSSP Infrastructure Support | Planned |
+| AWS Security Specialty | Amazon Web Services | Cloud Security Advanced | Planned |
 
-### Phase 3 — Senior / Contractor Level (3–5 yr horizon)
-
-| Certification | Exam | DoD 8140 Role | Status |
-| --- | --- | --- | --- |
-| [OSCP](./phase-3-senior/OSCP) | Practical | Red Team / Pen Tester | Planned |
-| [CISSP](./phase-3-senior/CISSP) | CAT | IAM III / CSSP Mgr | Planned |
-| [CISM](./phase-3-senior/CISM) | CISM | IAM Level III | Planned |
+Full one-sheet: [`_roadmap/DoD_8140_Roadmap.pdf`](./_roadmap/DoD_8140_Roadmap.pdf)
 
 ---
 
-## Repository Structure
+## Verification
 
-```
-/
-├── _roadmap/                        # DoD 8140 one-sheet PDF
-├── education/
-│   └── WGU-BS-Computer-Science/     # B.S. CS degree progress
-├── phase-1-baseline/
-│   ├── ISC2-CC/                     # CC — Entry Baseline
-│   ├── Linux-Foundations/           # D281 / LFS — Systems Baseline
-│   ├── ITIL4-Foundation/            # ITIL 4 — IT Service Mgmt
-│   ├── CompTIA-Security-Plus/       # SY0-701 — IAT/IAM Level II
-│   ├── AWS-Cloud-Practitioner/      # CLF-C02 — Cloud Baseline
-│   └── CompTIA-CySA-Plus/           # CS0-003 — CSSP Analyst
-├── phase-2-intermediate/
-│   ├── AWS-SAA/                     # SAA-C03 — Cloud / SecOps
-│   ├── AWS-Security-Specialty/      # SCS-C02 — Cloud Security
-│   ├── CEH/                         # 312-50 — CSSP Analyst / IR
-│   ├── PNPT/                        # Practical — Red Team
-│   ├── CompTIA-PenTest-Plus/        # PT0-002 — CSSP / Pen Tester
-│   └── GIAC-GPEN/                   # GPEN — CSSP / Pen Tester
-├── phase-3-senior/
-│   ├── OSCP/                        # Practical — Red Team
-│   ├── CISSP/                       # CAT — IAM III / CSSP Mgr
-│   └── CISM/                        # CISM — IAM Level III
-└── archive/                         # Prior certs kept for record
-```
-
-Each cert folder contains:
-
-- `README.md` — status, domains, resources, proof of completion
-- `NOTES.md` — raw study notes by domain
-- `proof/` — certificate and exam screenshots
+- LPI Linux Essentials: [lpi.org/v/LPI000692291/fbhuqub8uz](https://lpi.org/v/LPI000692291/fbhuqub8uz)
+- ITIL 4 Foundation: PeopleCert candidate number 9980086122358702
 
 ---
 
-## Focus Areas
+## Related
 
-- Network defense and threat detection
-- Offensive security and penetration testing
-- Cloud security (AWS)
-- DoD 8140 / 8570 compliance framework
-- Cleared contractor career track
-
----
-
-## Related Projects
-
-- [lobo-homelab](https://github.com/mikelobocyber/lobo-homelab) — Proxmox homelab with Wazuh, Kali, Nextcloud, and GOAD
-- File Integrity Monitor
-- Port Scanner (Python)
-
----
-
-> Documenting a structured path toward DoD cybersecurity roles and cleared contractor work.
+- [mikelobocyber](https://github.com/mikelobocyber/mikelobocyber) — profile and projects
+- [lobo-homelab](https://github.com/mikelobocyber/lobo-homelab) — Proxmox homelab with Wazuh, Kali, and GOAD
