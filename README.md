@@ -41,7 +41,6 @@ Documenting my certification progress toward DoD cybersecurity roles — cleared
 | OSCP | Offensive Security | CSSP Infrastructure Support | Planned |
 | AWS Security Specialty | Amazon Web Services | Cloud Security Advanced | Planned |
 
-Full one-sheet: [`_roadmap/DoD_8140_Roadmap.pdf`](./_roadmap/DoD_8140_Roadmap.pdf)
 
 ---
 
